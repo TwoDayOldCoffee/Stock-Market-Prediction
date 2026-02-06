@@ -26,7 +26,7 @@ This project explores the application of LSTM networks for time series forecasti
 - **Matplotlib** - Data visualization
 - **scikit-learn** - Metrics and preprocessing
 
-## 💡 Methodology
+## Methodology
 
 ### Data Collection
 - Historical stock data from Yahoo Finance (2020-2024)
@@ -69,7 +69,7 @@ This project explores the application of LSTM networks for time series forecasti
 - Only uses closing prices (no volume, news, sentiment)
 - Past performance doesn't guarantee future results
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Add technical indicators (RSI, MACD, Bollinger Bands)
 - [ ] Incorporate trading volume data
